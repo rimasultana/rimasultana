@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rimasultana" alt="rimasultana" /></a> </p>
 
-- 🔭 I’m currently working on **ema-john-shop**
+- 🔭 I’m currently working on **Tailwindcss**
 
 - 🌱 I’m currently learning **JavaScript & Responsive Web**
 
