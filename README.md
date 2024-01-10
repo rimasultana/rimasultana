@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rima Sultana</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<P>i love web development</P>
 <br/>
 <p align="center">"---Always Work Hard and Trust the Process---"</p>
 <br/>
