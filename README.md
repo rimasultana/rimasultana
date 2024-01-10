@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rima Sultana</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<br/>
 <p align="center">"---Always Work Hard and Trust the Process---"</p>
+<br/>
+<P align=center>......Alhumdulillah for everything........</P>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimasultana&label=Profile%20views&color=0e75b6&style=flat" alt="rimasultana" /> </p>
 
