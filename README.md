@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimasultana&label=Profile%20views&color=0e75b6&style=flat" alt="rimasultana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rimasultana" alt="rimasultana" /></a> </p>
+<p>Alhumdullah for evrething</p>
 
 - 🔭 I’m currently working on **Tailwind** 
 
