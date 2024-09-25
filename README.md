@@ -1,3 +1,4 @@
+<div background-color= "red">
 <h1 align="center">Hi 👋, I'm Rima Sultana</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <br/>
@@ -31,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rimasultana&show_icons=true&locale=en" alt="rimasultana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimasultana&" alt="rimasultana" /></p>
+</div>
