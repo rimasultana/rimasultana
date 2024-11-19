@@ -1,5 +1,23 @@
 <div background-color= "red">
-<h1 align="center">Hi 👋, I'm Rima Sultana</h1>
+<style>
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .animated-heading {
+    animation: fadeInUp 2s ease-in-out;
+  }
+</style>
+
+<h1 align="center" class="animated-heading">Hi 👋, I'm Rima Sultana</h1>
+
 <h3 align="center">A passionate frontend developer</h3>
 <br/>
 <p align="center">"---Always Work Hard and Trust the Process---"</p>
