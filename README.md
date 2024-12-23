@@ -1,6 +1,5 @@
 <div background-color= "red">
 <h1 align="center" class="animated-heading">Hi 👋, I'm Rima Sultana</h1>
-![Cover Photo](https://raw.githubusercontent.com/username/repository/branch/filename.png)
 
 <h3 align="center">A passionate frontend developer</h3>
 <br/>
