@@ -12,10 +12,6 @@
 
 ## 🎨 About Me
 
-# Rima Sultana
-
-**Frontend Developer | Aspiring Full-Stack Developer | Bangladesh**
-
 I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a goal to build impactful, user-friendly web applications. Currently, I’m exploring **React**, **Node.js**, and **MongoDB** to expand my skills. I am always excited to learn new tools and technologies and strive to create beautiful, responsive, and functional websites.
 
 - 🔭 I’m currently working on [Boighor](https://boighorbd.vercel.app/)
