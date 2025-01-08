@@ -8,7 +8,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rimasultana" alt="rimasultana" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rsultana21881" target="blank"><img src="https://img.shields.io/twitter/follow/rsultana21881?logo=twitter&style=for-the-badge" alt="rsultana21881" /></a> </p>
+---
+
+## 🎨 About Me
+
+# Rima Sultana
+
+**Frontend Developer | Aspiring Full-Stack Developer | Bangladesh**
+
+I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a goal to build impactful, user-friendly web applications. Currently, I’m exploring **React**, **Node.js**, and **MongoDB** to expand my skills. I am always excited to learn new tools and technologies and strive to create beautiful, responsive, and functional websites.
 
 - 🔭 I’m currently working on [Boighor](https://boighorbd.vercel.app/)
 
@@ -21,6 +29,9 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tXE6YRjmzINXiU-SU0aNQc9_d-Gv2YtC/view?usp=drive_link](https://drive.google.com/file/d/1tXE6YRjmzINXiU-SU0aNQc9_d-Gv2YtC/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I'm funny**
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
