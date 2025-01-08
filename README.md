@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rima Sultana</h1>
+
 ![banner](https://i.ibb.co.com/mbD4Xf1/banner.png)
 
 <h3 align="center">A passionate Mern stack developer</h3>
