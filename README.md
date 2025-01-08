@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rima Sultana</h1>
+![banner](https://i.ibb.co.com/mbD4Xf1/banner.png)
+
 <h3 align="center">A passionate Mern stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimasultana&label=Profile%20views&color=0e75b6&style=flat" alt="rimasultana" /> </p>
