@@ -55,10 +55,11 @@ I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a
 </p>
 
 
-<!--📰 RSS (Sky Blue) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" style="background-color:#87CEEB;">
+<!--📰 RSS (Sky Blue Gradient) -->
+<p align="center" style="background: linear-gradient(to right, #87CEEB, #00BFFF);">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 </p>
+
 
 
 
