@@ -47,6 +47,8 @@ I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rimasultana&show_icons=true&locale=en&layout=compact" alt="rimasultana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rimasultana&show_icons=true&locale=en" alt="rimasultana" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimasultana&" alt="rimasultana" /></p>
 <div align="center">
 
   <hr></hr>
@@ -79,5 +81,3 @@ I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimasultana&" alt="rimasultana" /></p>
