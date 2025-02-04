@@ -55,10 +55,11 @@ I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-<!--📰 RSS (Sky Blue) -->
+<!--📰 Custom Sky Blue RSS Marquee -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=87CEEB&height=30&section=header&text=Welcome%20to%20my%20Profile!&fontSize=20&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 <!--🎨 CAPSULE (Sky Blue Gradient) -->
 <p align="center">
