@@ -50,10 +50,10 @@ I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimasultana&" alt="rimasultana" /></p>
 
-<!--📏 LINE (Sky Blue) -->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" style="background-color:#0e75b6;">
 </p>
+
 
 <!--📰 RSS (Sky Blue) -->
 <p align="center">
