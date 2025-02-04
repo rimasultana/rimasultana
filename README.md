@@ -51,23 +51,9 @@ I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimasultana&" alt="rimasultana" /></p>
 
 <div align="center">
-**😌😌😌**<br>
+  **😌😌😌**<br>
 </div>
-<br>
 
-
-<br/>
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shafiqulislamsagor&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
-
-<!--📏LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
-
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
+  <strong>Thank you for visiting! 💖</strong>
+</p>
