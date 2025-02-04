@@ -52,13 +52,9 @@ I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimasultana&" alt="rimasultana" /></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" style="background-color:#0e75b6;">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" style="background-color:#00BFFF;">
 </p>
 
-<!--📰 RSS (Sky Blue Gradient) -->
-<p align="center" style="background: linear-gradient(to right, #87CEEB, #00BFFF);">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
-</p>
 
 <!--🎨 CAPSULE (Sky Blue Gradient) -->
 <p align="center">
