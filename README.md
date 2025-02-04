@@ -51,9 +51,10 @@ I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimasultana&" alt="rimasultana" /></p>
 
 <div align="center">
-  **😌😌😌**<br>
-</div>
 
+  <hr></hr>
+
+**😝🥹🥹😝**<br>
+</div>
 <p align="center">
-  <strong>Thank you for visiting! 💖</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
