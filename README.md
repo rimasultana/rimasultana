@@ -55,8 +55,10 @@ I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shafiqulislamsagor&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 </div>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rimasultana&show_icons=true&locale=en&layout=compact" alt="rimasultana" /></p>
 
