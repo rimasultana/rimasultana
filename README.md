@@ -1,7 +1,6 @@
-
 ![banner](banner.png)
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Rima+Sultana!;" /> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Rima+Sultana!;" /> 
 </h1>
 
 <h3 align="center">A Passionate Frontend Developer</h3>
@@ -45,6 +44,10 @@ I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a
 
 ---
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rimasultana" alt="rimasultana" />
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rimasultana&show_icons=true&locale=en&layout=compact" alt="rimasultana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rimasultana&show_icons=true&locale=en" alt="rimasultana" /></p>
@@ -54,15 +57,9 @@ I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a
 </p>
 
 
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
-<!--🎨 CAPSULE (Sky Blue Gradient) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:87CEEB,100:00BFFF">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:87CEEB,100:00BFFF">
 </p>
-
-
-
-
