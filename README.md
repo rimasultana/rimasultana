@@ -45,12 +45,19 @@ I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rimasultana" alt="rimasultana" />
+  <img src="https://streak-stats.demolab.com/?user=rimasultana" alt="Rima Sultana's GitHub streak" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rimasultana&show_icons=true&locale=en&layout=compact" alt="rimasultana" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rimasultana&show_icons=true&locale=en" alt="rimasultana" /></p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rimasultana&show_icons=true&locale=en&layout=compact" alt="Rima Sultana's Top Languages" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=rimasultana&show_icons=true&locale=en" alt="Rima Sultana's GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
