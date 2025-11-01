@@ -44,11 +44,21 @@ I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a
 
 ---
 
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=rimasultana" alt="Rima Sultana's GitHub streak" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rimasultana&show_icons=true&locale=en&layout=compact" alt="Rima Sultana's Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rimasultana&show_icons=true&locale=en" alt="Rima Sultana's GitHub Stats" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://streak-stats.demolab.com/?user=rimasultana" alt="Rima Sultana's GitHub streak" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rimasultana&show_icons=true&locale=en&layout=compact" alt="Rima Sultana's Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rimasultana&show_icons=true&locale=en" alt="Rima Sultana's GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
