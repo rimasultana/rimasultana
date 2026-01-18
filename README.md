@@ -44,7 +44,7 @@ I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a
 
 ---
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center" valign="top">
       <img src="https://streak-stats.demolab.com/?user=rimasultana" alt="Rima Sultana's GitHub streak" />
@@ -62,6 +62,10 @@ I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p> -->
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=rimasultana&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
 
